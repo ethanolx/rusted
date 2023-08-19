@@ -1,3 +1,3 @@
 fn main() {
-    println!("Rusteze");
+    println!("Rusteze again");
 }
